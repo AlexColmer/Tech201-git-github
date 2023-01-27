@@ -11,3 +11,9 @@ Tech201-git-github
 - setp 3 use pwd to see if your are in the correct place. 
 
 - step 4 copy HTTPS form 
+
+- git clone tech201 
+
+-ls (list directories)
+
+- Created information in the cloud. connection between a global host and local. 
