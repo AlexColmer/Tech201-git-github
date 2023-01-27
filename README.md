@@ -4,7 +4,7 @@ Tech201-git-github
 ### Heading3
 - Let's creat our Markdown file
 
-- step 1 create the tech201_github
+- step 1 create the mkdir tech201_github
 
 - step 2 change directory to the tech201_github
 
