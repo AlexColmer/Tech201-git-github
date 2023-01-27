@@ -16,4 +16,4 @@
 
 - crt x then y then enter to exit nano. 
 
-![](git push pull.jpg)
+![](gitpushpull.jpg)
