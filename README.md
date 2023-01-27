@@ -14,6 +14,8 @@ Tech201-git-github
 
 - git clone tech201 
 
--ls (list directories)
+- ls (list directories)
 
 - Created information in the cloud. connection between a global host and local. 
+
+- crt x then y then enter 
